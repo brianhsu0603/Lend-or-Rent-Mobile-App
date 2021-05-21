@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">LOR - LEND OR RENT</string>
+    <string name="title_activity_tabs">TabsActivity</string>
+    <string name="tab_text_1">Search</string>
+    <string name="tab_text_2">Upload</string>
+    <string name="tab_text_3">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="category">
+        <item>None</item>
+        <item>Sports/Outdoors</item>
+        <item>Entertainment</item>
+        <item>Books</item>
+        <item>Clothes</item>
+        <item>Tools</item>
+        <item>Electronics</item>
+        <item>Transportation</item>
+        <item>Others</item>
+    </string-array>
+
+
+</resources>
